@@ -1,0 +1,19 @@
+{
+    "about":"Hi! I am Tetiana. ",
+    "projects": "Projects",
+    "home": "Home",
+    "contacts": "Contacts",
+    "postButton": "view",
+    "project":{
+        "project1":"Timer (React hooks, HTML, CSS та JavaScript)",
+        "discribe1":"An alarm clock that can be set for the required day and time",
+        "project2":"Phonebook (React hooks, HTML, CSS та JavaScript)",
+        "discribe2":"Searchable phonebook",
+        "project3":"Authorization/registration (React hooks, React Router,  HTML, CSS та JavaScript)",
+        "discribe3":"Authorization and registration page"
+
+
+
+    }
+
+}

@@ -1,0 +1,19 @@
+{
+    "about":"Привіт! Я - Тетяна. ",
+    "projects": "Проєкти",
+    "home": "Головна",
+    "contacts": "Контакти",
+    "postButton": "переглянути",
+    "project":{
+        "project1":"Таймер (React hooks, HTML, CSS та JavaScript)",
+        "discribe1":"Таймер, який можна встановити на потрібний день і час",
+        "project2":"Телефонний довідник (React hooks, HTML, CSS та JavaScript)",
+        "discribe2":"Телефонний довідник з можливістю пошуку",
+        "project3":"Авторизація/реєстрація (React hooks, React Router,  HTML, CSS та JavaScript)",
+        "discribe3":"Cторінка авторизації і реєстрації"
+
+
+    }
+
+}
+
