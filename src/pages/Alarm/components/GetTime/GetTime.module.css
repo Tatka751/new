@@ -1,0 +1,14 @@
+.askUser {
+    font-weight: 900;
+    background-color: rgb(154, 151, 156);
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+}
+
+button {
+    height: 25px;
+    width: 200px;
+}
